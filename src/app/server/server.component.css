@@ -1,0 +1,134 @@
+/*.boxStyle{*/
+/*  color: white;*/
+/*  background: greenyellow;*/
+/*  width: available;*/
+/*  height: available;*/
+/*  border: 5px green solid;*/
+/*  padding: 10px;*/
+/*}*/
+
+/*.boxStyleNoPadd{*/
+/*  color: white;*/
+/*  background: yellow;*/
+/*  width: available;*/
+/*  height: max-content;*/
+/*  border: 10px green solid;*/
+/*}*/
+
+/*.boxStyleWithMarg{*/
+/*  color: white;*/
+/*  background: pink;*/
+/*  width: available;*/
+/*  height: max-content;*/
+/*  border: 10px green solid;*/
+/*  margin: 10px*/
+/*}*/
+
+/*.relativeright{*/
+/*  position: relative;*/
+/*  color: black;*/
+/*  background: aquamarine;*/
+/*  top: 60px;*/
+/*  right: 0px;*/
+/*}*/
+
+/*.absolute{*/
+/*  position: absolute;*/
+/*  color: cornflowerblue;*/
+/*  top: 0px;*/
+/*  right: 90px;*/
+/*}*/
+
+/*.FixedBlock{*/
+/*  position: fixed;*/
+/*  font-size: large;*/
+/*  top: 200px;*/
+/*  Right: 200px;*/
+/*  color: purple;*/
+
+/*}*/
+
+/*nav{*/
+/*  color: blue;*/
+/*  background: red;*/
+/*  vertical-align: top;*/
+/*  width: 25%;*/
+/*}*/
+
+/*.column{*/
+/*  display: inline-block;*/
+/*  background: cornflowerblue;*/
+/*  color: white;*/
+/*  vertical-align: top;*/
+/*  width: 75%;*/
+/*}*/
+
+/*hw1 non-responsive*/
+/*.container{*/
+/*  position: relative;*/
+/*  border:5px greenyellow solid;*/
+/*  padding: 0px;*/
+/*}*/
+
+/*nav{*/
+/*  position: absolute;*/
+/*  border:5px deeppink solid;*/
+/*  width: 200px;*/
+/*  padding-left: 10px;*/
+/*}*/
+
+
+/*div{*/
+/*  color: deeppink;*/
+/*  margin-left: 10px;*/
+/*}*/
+
+/*section{*/
+/*  padding: 10px;*/
+/*  border:5px orange solid;*/
+/*  margin-left: 200px;*/
+/*}*/
+
+/*body{*/
+/*  margin-bottom: 120px;*/
+/*}*/
+
+.background{
+  position: absolute;
+  background: limegreen;
+  width: 100%;
+  height: 100%;
+}
+
+.signInBox{
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  border: 5px black solid;
+  position: absolute;
+  background: white;
+  padding: 30px;
+  width: 350px;
+  height: 250px;
+}
+
+.userinput{
+  color: gray;
+  background: lightgray;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.buttonlook{
+  color: white;
+  background: darkgreen;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+
+
